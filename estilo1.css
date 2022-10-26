@@ -1,0 +1,10 @@
+body {
+    background-color: coral;
+}
+.principal {
+    width: 960px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
